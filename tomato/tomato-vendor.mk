@@ -170,7 +170,6 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib64/libimsmedia_jni.so:system/vendor/lib/libimsmedia_jni.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imsqimf.so:system/vendor/lib/lib-imsqimf.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imsrcscmclient.so:system/vendor/lib/lib-imsrcscmclient.so \
-    vendor/yu/tomato/proprietary/vendor/lib64/lib-ims-rcscmjni.so:system/vendor/lib/lib-ims-rcscmjni.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imsrcscmservice.so:system/vendor/lib/lib-imsrcscmservice.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imsrcscm.so:system/vendor/lib/lib-imsrcscm.so \
     vendor/yu/tomato/proprietary/vendor/lib64/lib-imsrcs.so:system/vendor/lib/lib-imsrcs.so \
